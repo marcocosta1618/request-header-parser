@@ -1,9 +1,9 @@
 # Back End Development and APIs Projects
 ## Request Header parser Microservice
 
-Request Header parser made in Express.js. Second Back End and API project from the freeCodeCamp curriculum.
+Request Header parser made in Express.js. Second Back End and API project in the freeCodeCamp curriculum.
 
-It returns IP address, preferred language, and software of the client at the endpoint [base_url]/api/whoami.
+It returns the IP address, preferred language, and software of the client at the endpoint [base_url]/api/whoami.
 
 Usage example:
 
